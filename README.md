@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arbeerobles
 - 👀 I’m interested in ... Data Science and Machine Learning
 - 🌱 I’m currently learning ... Intro Data Analytics (Google Sheets, SQL, Tableau, Python)
-- 📫 How to reach me ... richbenrobles@onmail.com
 
 <!---
 arbeerobles/arbeerobles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
